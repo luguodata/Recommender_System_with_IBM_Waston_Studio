@@ -1,8 +1,8 @@
-# Recommendations_with_IBM
+# Recommendations with IBM
 This project is about building article recommender systems to users in IBM
 Waston Studio based upon current user-article interactions in this platform.
 
-Multilple recommendation methods have been implemented in this project.
+Multilple recommendation methods have been implemented inside this project.
 
 This project is from Udacity Data Science Nano-Degree and data comes from [IBM
 Waston Studio](https://dataplatform.cloud.ibm.com)
@@ -52,6 +52,6 @@ feature numbers and model evaluations.
 ## Required packages
 nltk==3.4 <br />
 
-In udacity workspace python:
-`import nltk`
+In udacity workspace python:  <br />
+`import nltk`  <br />
 `nltk.download('stopwords')`
